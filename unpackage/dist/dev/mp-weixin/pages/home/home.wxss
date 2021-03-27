@@ -1,0 +1,25 @@
+.shop-home {
+  width: 100%;
+  letter-spacing: 1rpx;
+}
+.shop-home .header {
+  position: fixed;
+  min-width: 750rpx;
+  height: 80rpx;
+  padding: 10rpx 30rpx;
+  background-color: #f2f3f5;
+}
+.shop-home .header .search {
+  width: 100%;
+  height: 100%;
+  background-color: #ffffff;
+  -webkit-border-radius: 50rpx;
+          border-radius: 50rpx;
+  padding: 16rpx 30rpx;
+  font-size: 24rpx;
+  color: #999999;
+}
+.shop-home .fill {
+  height: 70rpx;
+}
+

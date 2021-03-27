@@ -1,0 +1,1 @@
+<view class="shop-home"><view class="header"><view class="search">请输入商品名称</view></view><view class="fill"></view><view class="shop-content"><block wx:for="{{10}}" wx:for-item="i" wx:for-index="index" wx:key="index"><product vue-id="{{'1da55560-1-'+index}}" bind:__l="__l"></product></block></view></view>

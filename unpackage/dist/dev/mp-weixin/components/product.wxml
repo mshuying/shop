@@ -1,0 +1,1 @@
+<view class="product"><image src="../static/logo.png" mode></image><view class="product-content"><view class="content-title">产品名称产品名称产品名称产品名称</view><view class="content"><label class="price _span">$888.88</label><label class="number _span">已售12件</label><label class="purchase _span">立即加购</label></view></view></view>
