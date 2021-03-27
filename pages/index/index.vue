@@ -22,7 +22,7 @@
 
 		},
 		onPullDownRefresh() {
-			console.log(1111)
+			console.log(11112)
 		},
 		methods: {
 

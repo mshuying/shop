@@ -2,7 +2,7 @@
 	<view class="shop-home">
 		<view class="header">
 			<view class="search">
-				请输入商品名称
+				请输入商品名称1
 			</view>
 		</view>
 		<view class="fill"></view>
